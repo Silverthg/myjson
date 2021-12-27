@@ -1,5 +1,4 @@
-{
-  "todo": [
+[
     {
       "id": 1,
       "title": "Eat"
@@ -32,5 +31,4 @@
       "id": 8,
       "title": "And sleep"
     }
-    ]
-}
+]
