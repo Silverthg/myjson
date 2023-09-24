@@ -7,27 +7,27 @@
 		},
 		{
 			"id": 2,
-			"title": "Drink"
+			"title": "Drink",
 			"checked": true,
 		},
 		{
 			"id": 3,
-			"title": "Sleep"
+			"title": "Sleep",
 			"checked": true,
 		},
 		{
 			"id": 4,
-			"title": "Sleep"
+			"title": "Sleep",
 			"checked": false,
 		},
 		{
 			"id": 5,
-			"title": "Sleep"
+			"title": "Sleep",
 			"checked": true,
 		},
 		{
 			"id": 6,
-			"title": "And sleep"
+			"title": "And sleep",
 			"checked": false,
 		}
 	]
