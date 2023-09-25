@@ -3,32 +3,32 @@
 		{
 			"id": 1,
 			"title": "Eat",
-			"checked": "true",
+			"checked": true
 		},
 		{
 			"id": 2,
 			"title": "Drink",
-			"checked": "true",
+			"checked": true
 		},
 		{
 			"id": 3,
 			"title": "Sleep",
-			"checked": "true",
+			"checked": true
 		},
 		{
 			"id": 4,
 			"title": "Sleep",
-			"checked": "false",
+			"checked": false
 		},
 		{
 			"id": 5,
 			"title": "Sleep",
-			"checked": "true",
+			"checked": true
 		},
 		{
 			"id": 6,
 			"title": "And sleep",
-			"checked": "false",
+			"checked": false
 		}
 	]
 }
